@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "brand": "S'well",
+        "capacity": 17,
+        "material": "Stainless Steel (18/8, insulated)",
+        "price": 250,
+        "weight": 320,
+        "color": "Rose Quartz",
+        "lifespan": 8,
+        "image": "https://picsum.photos/seed/bottle1/600/600"
+    },
+    {
+        "id": 2,
+        "brand": "Hydro Flask",
+        "capacity": 21,
+        "material": "Stainless Steel (18/8, insulated)",
+        "price": 420,
+        "weight": 360,
+        "color": "Pacific Blue",
+        "lifespan": 10,
+        "image": "https://picsum.photos/seed/bottle2/600/600"
+    },
+    {
+        "id": 3,
+        "brand": "Nalgene",
+        "capacity": 32,
+        "material": "Tritan (BPA-Free)",
+        "price": 180,
+        "weight": 190,
+        "color": "Clear Smoke",
+        "lifespan": 6,
+        "image": "https://picsum.photos/seed/bottle3/600/600"
+    },
+    {
+        "id": 4,
+        "brand": "CamelBak",
+        "capacity": 25,
+        "material": "Stainless Steel (insulated)",
+        "price": 380,
+        "weight": 370,
+        "color": "Matte Black",
+        "lifespan": 9,
+        "image": "https://picsum.photos/seed/bottle4/600/600"
+    },
+    {
+        "id": 5,
+        "brand": "Contigo",
+        "capacity": 20,
+        "material": "Tritan (BPA-Free)",
+        "price": 220,
+        "weight": 210,
+        "color": "Cobalt",
+        "lifespan": 5,
+        "image": "https://picsum.photos/seed/bottle5/600/600"
+    },
+    {
+        "id": 6,
+        "brand": "Klean Kanteen",
+        "capacity": 27,
+        "material": "Stainless Steel",
+        "price": 340,
+        "weight": 300,
+        "color": "Brushed Steel",
+        "lifespan": 8,
+        "image": "https://picsum.photos/seed/bottle6/600/600"
+    },
+    {
+        "id": 7,
+        "brand": "Thermos",
+        "capacity": 24,
+        "material": "Stainless Steel (vacuum insulated)",
+        "price": 360,
+        "weight": 380,
+        "color": "Graphite",
+        "lifespan": 8,
+        "image": "https://picsum.photos/seed/bottle7/600/600"
+    },
+    {
+        "id": 8,
+        "brand": "Brita",
+        "capacity": 20,
+        "material": "Plastic with Filter",
+        "price": 290,
+        "weight": 240,
+        "color": "Aqua",
+        "lifespan": 4,
+        "image": "https://picsum.photos/seed/bottle8/600/600"
+    },
+    {
+        "id": 9,
+        "brand": "YETI",
+        "capacity": 18,
+        "material": "Stainless Steel (insulated)",
+        "price": 520,
+        "weight": 410,
+        "color": "Seafoam",
+        "lifespan": 10,
+        "image": "https://picsum.photos/seed/bottle9/600/600"
+    },
+    {
+        "id": 10,
+        "brand": "Takeya",
+        "capacity": 22,
+        "material": "Stainless Steel (insulated)",
+        "price": 330,
+        "weight": 350,
+        "color": "Sand",
+        "lifespan": 9,
+        "image": "https://picsum.photos/seed/bottle10/600/600"
+    },
+    {
+        "id": 11,
+        "brand": "SIGG",
+        "capacity": 24,
+        "material": "Aluminum (lined)",
+        "price": 260,
+        "weight": 230,
+        "color": "Red",
+        "lifespan": 6,
+        "image": "https://picsum.photos/seed/bottle11/600/600"
+    },
+    {
+        "id": 12,
+        "brand": "Lifefactory",
+        "capacity": 22,
+        "material": "Borosilicate Glass (silicone sleeve)",
+        "price": 400,
+        "weight": 520,
+        "color": "Olive",
+        "lifespan": 7,
+        "image": "https://picsum.photos/seed/bottle12/600/600"
+    }
+]
